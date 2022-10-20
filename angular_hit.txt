@@ -1,0 +1,47 @@
+Angular:
+========
+# correct corde schema like "" to be '' etc.....
+ng lint --fix 
+#documentation component version 7
+ng doc c --version=)7
+#run angular app and when i save a changing code no reload app 
+ng s -o --liveReload=false
+#change port (defaut port is 4200)
+ng s -o --port 4500
+# apdate dependencies
+ng update
+#si on change dans le fichier angular.json , et changer dans architect et
+ajouter une "o-n" { "options" : { "port" : 4500 , "open" : true}}
+ng run ng-arab:o-n    avec (ng-arab : nom du projet)
+# set automatically config 
+ng config version 1.1
+ng config cli.packagemanager npm
+ng config cli.packagemanager npm -g
+ng config cli.packagemanager yarn
+ng config schematics.@schematics/angular:component.styleext css
+
+
+# {{}} known as interpolation
+# install prettier code formatter - angular extension pack
+
+
+#one way Data binding
+[style]="variable" (click)="function()"
+[class]="{b: userName, y:!userName}"
+#Two way Data binding   ( n'oublier pas d'ajouter import FormsModule dans le fichier app.module.ts
+<input [(ngModel)]="userName" />
+
+export class AppComponent{
+
+userName: string = '';
+
+}
+
+
+# add this in tsconfig.json 
+{
+  "compilerOptions": {
+    // ... rest
+    "strictPropertyInitialization": false
+  }
+}
