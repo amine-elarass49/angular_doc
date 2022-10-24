@@ -45,3 +45,10 @@ userName: string = '';
     "strictPropertyInitialization": false
   }
 }
+
+# $any($event.target).value remplace $event.target.value
+<input type="text"
+(keyup)="titlechange.emit($any($event.target).value)"
+[value]="title"
+/>
+<p>in child and title is {{ title }}</p>
