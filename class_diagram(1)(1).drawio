@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-23T21:23:42.516Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="typXuA37-Vig80oQnE_K" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-23T21:26:09.579Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="uCaJq4c6loJNI6cxQZX-" version="24.7.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1930" dy="1680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1721" dy="1680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -677,6 +677,23 @@
             <mxPoint x="677.1942446043167" y="54" as="sourcePoint" />
             <mxPoint x="650" y="180" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="czbM04WcTfYkiqGBbqhB-39" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9aXq1o78ZJMNKhqQbn4J-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="335.0036437246965" y="210" as="sourcePoint" />
+            <mxPoint x="328.9307692307693" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="czbM04WcTfYkiqGBbqhB-40" value="*" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="czbM04WcTfYkiqGBbqhB-39">
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="15" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="czbM04WcTfYkiqGBbqhB-42" value="buys" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="300" y="165" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="czbM04WcTfYkiqGBbqhB-43" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="359.99952457370875" y="129.99966220448428" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
