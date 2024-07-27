@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" version="24.7.5">
   <diagram name="Page-1" id="bhGO4YqVL-GR8HQGPJSJ">
-    <mxGraphModel dx="1567" dy="1662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="581" dy="1419" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="20" y="260" width="70" height="140" as="geometry" />
         </mxCell>
         <mxCell id="naTFx3P3gocJp3Rw6-RB-2" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="190" width="580" height="1580" as="geometry" />
+          <mxGeometry x="190" width="610" height="1720" as="geometry" />
         </mxCell>
         <mxCell id="naTFx3P3gocJp3Rw6-RB-3" value="S&#39;authentifier" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="naTFx3P3gocJp3Rw6-RB-2">
           <mxGeometry x="370" y="140" width="210" height="70" as="geometry" />
@@ -172,6 +172,12 @@
             <mxPoint x="499" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="naTFx3P3gocJp3Rw6-RB-67" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;rounded=0;" edge="1" parent="naTFx3P3gocJp3Rw6-RB-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-90" y="1650" as="sourcePoint" />
+            <mxPoint x="70" y="1650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="naTFx3P3gocJp3Rw6-RB-28" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#1a5fb4&quot;&gt;Use Case Admin Annuaire digitale d&#39;entreprises&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="260" y="-40" width="370" height="30" as="geometry" />
         </mxCell>
@@ -259,10 +265,52 @@
             <mxPoint x="719" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="naTFx3P3gocJp3Rw6-RB-56" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1.014;exitY=0.6;exitDx=0;exitDy=0;entryX=0.871;entryY=0.883;entryDx=0;entryDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="naTFx3P3gocJp3Rw6-RB-42" target="naTFx3P3gocJp3Rw6-RB-3">
+        <mxCell id="naTFx3P3gocJp3Rw6-RB-56" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.871;entryY=0.883;entryDx=0;entryDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="naTFx3P3gocJp3Rw6-RB-42" target="naTFx3P3gocJp3Rw6-RB-3">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="420" y="1375" as="sourcePoint" />
             <mxPoint x="729" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="naTFx3P3gocJp3Rw6-RB-57" value="SuperAdmin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="1540" width="80" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="naTFx3P3gocJp3Rw6-RB-59" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="50" y="1490" as="sourcePoint" />
+            <mxPoint x="54.71" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="naTFx3P3gocJp3Rw6-RB-61" value="Supprimer&amp;nbsp; un offre" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1615" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="naTFx3P3gocJp3Rw6-RB-63" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="naTFx3P3gocJp3Rw6-RB-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="530" as="sourcePoint" />
+            <mxPoint x="270" y="1205" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="naTFx3P3gocJp3Rw6-RB-64" value="" style="endArrow=none;html=1;rounded=0;entryX=0.026;entryY=0.576;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="naTFx3P3gocJp3Rw6-RB-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="540" as="sourcePoint" />
+            <mxPoint x="270" y="1285" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="naTFx3P3gocJp3Rw6-RB-65" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="naTFx3P3gocJp3Rw6-RB-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="550" as="sourcePoint" />
+            <mxPoint x="274" y="1370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="naTFx3P3gocJp3Rw6-RB-66" value="" style="endArrow=none;html=1;rounded=0;entryX=0.012;entryY=0.576;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="naTFx3P3gocJp3Rw6-RB-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="560" as="sourcePoint" />
+            <mxPoint x="270" y="1445" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="naTFx3P3gocJp3Rw6-RB-70" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1.017;exitY=0.438;exitDx=0;exitDy=0;entryX=0.935;entryY=0.776;entryDx=0;entryDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="naTFx3P3gocJp3Rw6-RB-61" target="naTFx3P3gocJp3Rw6-RB-3">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="410" y="1525" as="sourcePoint" />
+            <mxPoint x="753" y="212" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
