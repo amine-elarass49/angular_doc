@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" version="24.7.5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1580" dy="1522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1919" dy="1681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -1073,7 +1073,7 @@
           <mxGeometry x="520" y="-810" width="650" height="290" as="geometry" />
         </mxCell>
         <mxCell id="5DzNBZyBB8pfSb5S8KHx-0" value="Reservation_Room" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="515" y="-74" width="145" height="78" as="geometry">
+          <mxGeometry x="515" y="-74" width="145" height="84" as="geometry">
             <mxRectangle x="550" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1102,6 +1102,9 @@
         </mxCell>
         <mxCell id="5DzNBZyBB8pfSb5S8KHx-11" value="*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="766" y="-502" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5DzNBZyBB8pfSb5S8KHx-12" value="&lt;font color=&quot;#cc0000&quot;&gt;a discuter&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#00FF80;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="515" y="-134" width="145" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
