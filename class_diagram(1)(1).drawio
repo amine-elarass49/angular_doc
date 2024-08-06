@@ -551,7 +551,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="b7Q9AOJehmTMl4ptzpde-41" value="1" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" parent="WIyWlLk6GJQsqaUBKTNV-1" connectable="0" vertex="1">
-          <mxGeometry x="300" y="275" as="geometry" />
+          <mxGeometry x="290" y="275" as="geometry">
+            <mxPoint x="228" y="53" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="b7Q9AOJehmTMl4ptzpde-42" value="1" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" parent="WIyWlLk6GJQsqaUBKTNV-1" connectable="0" vertex="1">
           <mxGeometry x="220" y="480" as="geometry" />
@@ -572,7 +574,7 @@
           <mxGeometry x="-160" y="260" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b7Q9AOJehmTMl4ptzpde-48" value="1" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" parent="WIyWlLk6GJQsqaUBKTNV-1" connectable="0" vertex="1">
-          <mxGeometry x="510" y="470" as="geometry" />
+          <mxGeometry x="520" y="480" as="geometry" />
         </mxCell>
         <mxCell id="czbM04WcTfYkiqGBbqhB-1" value="manages" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="265" y="70" width="70" height="30" as="geometry" />
@@ -672,7 +674,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="czbM04WcTfYkiqGBbqhB-42" value="buys" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="300" y="165" width="50" height="30" as="geometry" />
+          <mxGeometry x="300" y="230" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="czbM04WcTfYkiqGBbqhB-43" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" parent="WIyWlLk6GJQsqaUBKTNV-1" connectable="0" vertex="1">
           <mxGeometry x="359.99952457370875" y="129.99966220448428" as="geometry" />
