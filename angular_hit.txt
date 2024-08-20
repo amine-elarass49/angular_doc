@@ -52,3 +52,22 @@ userName: string = '';
 [value]="title"
 />
 <p>in child and title is {{ title }}</p>
+
+ng generate component --skip-tests=true component-name
+ng generate service --skip-tests=true service-name
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
