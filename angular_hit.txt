@@ -3,7 +3,7 @@ Angular:
 # correct corde schema like "" to be '' etc.....
 ng lint --fix 
 #documentation component version 7
-ng doc c --version=)7
+ng doc c --version=7
 #run angular app and when i save a changing code no reload app 
 ng s -o --liveReload=false
 #change port (defaut port is 4200)
