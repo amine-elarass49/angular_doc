@@ -153,7 +153,7 @@
             <mxPoint x="496" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PQB2T6UrnItoZjkJQsqc-5" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.986;exitY=0.572;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.695;entryY=0.981;entryDx=0;entryDy=0;entryPerimeter=0;" parent="fkFMP3JX3WEj0m_sH6AM-30" source="fkFMP3JX3WEj0m_sH6AM-60" edge="1" target="fkFMP3JX3WEj0m_sH6AM-31">
+        <mxCell id="PQB2T6UrnItoZjkJQsqc-5" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.986;exitY=0.572;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.695;entryY=0.981;entryDx=0;entryDy=0;entryPerimeter=0;" parent="fkFMP3JX3WEj0m_sH6AM-30" source="fkFMP3JX3WEj0m_sH6AM-60" target="fkFMP3JX3WEj0m_sH6AM-31" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="220" y="748.01" as="sourcePoint" />
             <mxPoint x="485" y="168.01" as="targetPoint" />
@@ -165,23 +165,23 @@
             <mxPoint x="70" y="915.01" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-5SM4cea8TO8nDbN8u2m-2" value="Visualiser Dashboard pour ses produits/services" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="fkFMP3JX3WEj0m_sH6AM-30">
+        <mxCell id="-5SM4cea8TO8nDbN8u2m-2" value="Visualiser Dashboard pour ses produits/services" style="ellipse;whiteSpace=wrap;html=1;" parent="fkFMP3JX3WEj0m_sH6AM-30" vertex="1">
           <mxGeometry x="70.5" y="30" width="159.5" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="-5SM4cea8TO8nDbN8u2m-3" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="fkFMP3JX3WEj0m_sH6AM-30" target="-5SM4cea8TO8nDbN8u2m-2">
+        <mxCell id="-5SM4cea8TO8nDbN8u2m-3" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="fkFMP3JX3WEj0m_sH6AM-30" target="-5SM4cea8TO8nDbN8u2m-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-70" y="200" as="sourcePoint" />
             <mxPoint x="81" y="153" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-5SM4cea8TO8nDbN8u2m-4" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.357;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="fkFMP3JX3WEj0m_sH6AM-30" target="fkFMP3JX3WEj0m_sH6AM-31">
+        <mxCell id="-5SM4cea8TO8nDbN8u2m-4" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.357;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.014;exitY=0.567;exitDx=0;exitDy=0;exitPerimeter=0;" parent="fkFMP3JX3WEj0m_sH6AM-30" target="fkFMP3JX3WEj0m_sH6AM-31" edge="1" source="-5SM4cea8TO8nDbN8u2m-2">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="210.5" y="70" as="sourcePoint" />
             <mxPoint x="371.5" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fkFMP3JX3WEj0m_sH6AM-51" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#1a5fb4&quot;&gt;Use Case BusinessOwner Annuaire digitale d&#39;entreprises&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="230" y="-40" width="430" height="30" as="geometry" />
+        <mxCell id="fkFMP3JX3WEj0m_sH6AM-51" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#1a5fb4&quot;&gt;Use Case BusinessOwner annuaire digital d&#39;entreprises&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="235" y="-40" width="420" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
