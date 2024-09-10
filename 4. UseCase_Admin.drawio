@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="naTFx3P3gocJp3Rw6-RB-1" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="naTFx3P3gocJp3Rw6-RB-1" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="20" y="260" width="70" height="140" as="geometry" />
         </mxCell>
         <mxCell id="naTFx3P3gocJp3Rw6-RB-2" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
@@ -277,7 +277,7 @@
             <mxPoint x="729" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="naTFx3P3gocJp3Rw6-RB-57" value="SuperAdmin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="naTFx3P3gocJp3Rw6-RB-57" value="SuperAdmin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="20" y="1540" width="80" height="140" as="geometry" />
         </mxCell>
         <mxCell id="naTFx3P3gocJp3Rw6-RB-61" value="Supprimer un admin" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
