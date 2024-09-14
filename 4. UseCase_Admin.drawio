@@ -25,7 +25,7 @@
         <mxCell id="naTFx3P3gocJp3Rw6-RB-15" value="Contacter super admin" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="naTFx3P3gocJp3Rw6-RB-2" vertex="1">
           <mxGeometry x="65" y="149.99999999999994" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="naTFx3P3gocJp3Rw6-RB-17" value="" style="endArrow=none;html=1;rounded=0;entryX=0.059;entryY=0.286;entryDx=0;entryDy=0;entryPerimeter=0;" parent="naTFx3P3gocJp3Rw6-RB-2" edge="1" target="naTFx3P3gocJp3Rw6-RB-15">
+        <mxCell id="naTFx3P3gocJp3Rw6-RB-17" value="" style="endArrow=none;html=1;rounded=0;entryX=-0.007;entryY=0.571;entryDx=0;entryDy=0;entryPerimeter=0;" parent="naTFx3P3gocJp3Rw6-RB-2" edge="1" target="naTFx3P3gocJp3Rw6-RB-15">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-75" y="200" as="sourcePoint" />
             <mxPoint x="75.5" y="432.8000000000002" as="targetPoint" />
@@ -85,7 +85,7 @@
             <mxPoint x="-125" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="naTFx3P3gocJp3Rw6-RB-34" value="" style="endArrow=none;html=1;rounded=0;entryX=0.024;entryY=0.286;entryDx=0;entryDy=0;entryPerimeter=0;" parent="naTFx3P3gocJp3Rw6-RB-2" target="naTFx3P3gocJp3Rw6-RB-33" edge="1">
+        <mxCell id="naTFx3P3gocJp3Rw6-RB-34" value="" style="endArrow=none;html=1;rounded=0;entryX=-0.007;entryY=0.45;entryDx=0;entryDy=0;entryPerimeter=0;" parent="naTFx3P3gocJp3Rw6-RB-2" target="naTFx3P3gocJp3Rw6-RB-33" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-81.02" y="210" as="sourcePoint" />
             <mxPoint x="58.98000000000002" y="715" as="targetPoint" />
