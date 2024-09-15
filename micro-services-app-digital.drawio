@@ -120,10 +120,10 @@
           <mxGeometry x="676" y="954" width="232" height="41" as="geometry" />
         </mxCell>
         <mxCell id="xCOBlcEBNlZvq0qhSWPW-68" value="Public network" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="56" y="59" width="103" height="26" as="geometry" />
+          <mxGeometry x="95" y="59" width="103" height="26" as="geometry" />
         </mxCell>
         <mxCell id="xCOBlcEBNlZvq0qhSWPW-69" value="Private network" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="175" y="57" width="107" height="26" as="geometry" />
+          <mxGeometry x="217" y="57" width="107" height="26" as="geometry" />
         </mxCell>
         <mxCell id="xCOBlcEBNlZvq0qhSWPW-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;startArrow=none;startFill=0;endArrow=block;endFill=1;" parent="1" source="xCOBlcEBNlZvq0qhSWPW-37" edge="1">
           <mxGeometry relative="1" as="geometry">
