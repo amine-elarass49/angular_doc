@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="xCOBlcEBNlZvq0qhSWPW-67" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="175" y="57" width="1304" height="1017" as="geometry" />
+          <mxGeometry x="175" y="57" width="1201" height="1017" as="geometry" />
         </mxCell>
         <mxCell id="O6HLDK9tNG4gK17g9pfa-21" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fillColor=none;dashed=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="271" y="99" width="1133" height="914" as="geometry" />
+          <mxGeometry x="235" y="99" width="1121" height="914" as="geometry" />
         </mxCell>
         <mxCell id="O6HLDK9tNG4gK17g9pfa-33" value="" style="image;html=1;image=img/lib/clip_art/networking/Email_128x128.png;sketch=0;fontSize=15;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1208" y="807" width="52" height="43" as="geometry" />
@@ -31,7 +31,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Sr1AToIsDmf1QCaqVxD8-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.opc-router.de/wp-content/uploads/2021/03/mongodb_thumbnail.png;" parent="1" vertex="1">
-          <mxGeometry x="1322" y="798" width="55.76" height="75" as="geometry" />
+          <mxGeometry x="1280" y="798" width="55.76" height="75" as="geometry" />
         </mxCell>
         <mxCell id="xCOBlcEBNlZvq0qhSWPW-14" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static-00.iconduck.com/assets.00/kafka-icon-2048x935-cvu4503l.png;imageBorder=none;perimeterSpacing=0;" parent="1" vertex="1">
           <mxGeometry x="941" y="887" width="77.75" height="35.5" as="geometry" />
@@ -57,10 +57,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O6HLDK9tNG4gK17g9pfa-22" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/25/25231.png;" parent="1" vertex="1">
-          <mxGeometry x="1079.76" y="1229.12" width="29" height="29" as="geometry" />
+          <mxGeometry x="1079.76" y="1162.12" width="29" height="29" as="geometry" />
         </mxCell>
         <mxCell id="O6HLDK9tNG4gK17g9pfa-23" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.code_file" parent="1" vertex="1">
-          <mxGeometry x="1122.98" y="1226.87" width="31.26" height="33.25" as="geometry" />
+          <mxGeometry x="1122.98" y="1159.87" width="31.26" height="33.25" as="geometry" />
         </mxCell>
         <mxCell id="xCOBlcEBNlZvq0qhSWPW-46" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="785.94" y="213" width="50.120000000000005" height="57.64852490606316" as="geometry" />
@@ -110,7 +110,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1349" y="747" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="1350" y="957" />
+              <mxPoint x="1273" y="913" />
+              <mxPoint x="1274" y="913" />
+              <mxPoint x="1274" y="836" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -118,7 +120,7 @@
           <mxGeometry x="676" y="954" width="232" height="41" as="geometry" />
         </mxCell>
         <mxCell id="xCOBlcEBNlZvq0qhSWPW-68" value="Public network" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="49" y="59" width="103" height="26" as="geometry" />
+          <mxGeometry x="56" y="59" width="103" height="26" as="geometry" />
         </mxCell>
         <mxCell id="xCOBlcEBNlZvq0qhSWPW-69" value="Private network" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="175" y="57" width="107" height="26" as="geometry" />
@@ -143,10 +145,15 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rKu08YaNow4kpiejSnou-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;" parent="1" source="rKu08YaNow4kpiejSnou-5" target="O6HLDK9tNG4gK17g9pfa-103" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="62" y="351" />
+              <mxPoint x="62" y="351" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="rKu08YaNow4kpiejSnou-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/800px-Angular_full_color_logo.svg.png;clipPath=inset(11.67% 12.33% 7.67% 12%);" parent="1" vertex="1">
-          <mxGeometry x="-9" y="324.25" width="50.18" height="53.5" as="geometry" />
+          <mxGeometry x="-9" y="324.25" width="58.86" height="62.75" as="geometry" />
         </mxCell>
         <mxCell id="vbnjpDnbafTEZDlO4RGQ-1" value="&lt;font style=&quot;font-size: 43px;&quot;&gt;Annuaire Digital App [Micro Services | Spring boot 3 | Spring Cloud]&lt;/font&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="-5" y="-60" width="1482" height="98" as="geometry" />
@@ -182,16 +189,16 @@
           <mxGeometry x="1217" y="936.1333333333333" width="23.546999999999997" height="21.15" as="geometry" />
         </mxCell>
         <mxCell id="xCOBlcEBNlZvq0qhSWPW-40" value="Eureka server" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="493" y="1165" width="120" height="47" as="geometry" />
+          <mxGeometry x="493" y="1098" width="120" height="47" as="geometry" />
         </mxCell>
         <mxCell id="xCOBlcEBNlZvq0qhSWPW-41" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://images.ctfassets.net/gt6dp23g0g38/5DqlQtFKecFlkqQ8YGDT2p/aa945b648f44dd872e9a1b89f7d203ef/springboot.png;" parent="1" vertex="1">
-          <mxGeometry x="495" y="1167.003333333333" width="23.546999999999997" height="21.15" as="geometry" />
+          <mxGeometry x="495" y="1100.003333333333" width="23.546999999999997" height="21.15" as="geometry" />
         </mxCell>
         <mxCell id="xCOBlcEBNlZvq0qhSWPW-37" value="Config server" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1060" y="1165" width="120" height="47" as="geometry" />
+          <mxGeometry x="1060" y="1098" width="120" height="47" as="geometry" />
         </mxCell>
         <mxCell id="xCOBlcEBNlZvq0qhSWPW-38" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://images.ctfassets.net/gt6dp23g0g38/5DqlQtFKecFlkqQ8YGDT2p/aa945b648f44dd872e9a1b89f7d203ef/springboot.png;" parent="1" vertex="1">
-          <mxGeometry x="1062" y="1168.1333333333332" width="23.546999999999997" height="21.15" as="geometry" />
+          <mxGeometry x="1062" y="1101.1333333333332" width="23.546999999999997" height="21.15" as="geometry" />
         </mxCell>
         <mxCell id="RfGDplgKg1R1XBQSlje2-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://images.ctfassets.net/gt6dp23g0g38/5DqlQtFKecFlkqQ8YGDT2p/aa945b648f44dd872e9a1b89f7d203ef/springboot.png;" parent="1" vertex="1">
           <mxGeometry x="104" y="318.00333333333333" width="23.546999999999997" height="21.15" as="geometry" />
