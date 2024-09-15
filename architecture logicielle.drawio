@@ -1,46 +1,44 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" version="24.7.14">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="680" dy="2063" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1073" dy="1693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="uBYx9kKuJi2ON3T31jr--2" value="&lt;div&gt;Couche Présentation&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="300" y="-1078" width="200" height="60" as="geometry" />
+        <mxCell id="uBYx9kKuJi2ON3T31jr--28" value="MicroService" style="swimlane;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82b366;startSize=30;" vertex="1" parent="1">
+          <mxGeometry x="30" y="-1150" width="300" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="uBYx9kKuJi2ON3T31jr--5" value="&lt;div&gt;Couche logique métier&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="300" y="-978" width="200" height="60" as="geometry" />
+        <mxCell id="uBYx9kKuJi2ON3T31jr--29" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="30" y="-1120" width="300" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="uBYx9kKuJi2ON3T31jr--6" value="&lt;div&gt;Couche d&#39;accés aux données&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="300" y="-878" width="200" height="60" as="geometry" />
+        <mxCell id="uBYx9kKuJi2ON3T31jr--2" value="&lt;div&gt;Couche Présentation&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#63A2FF;" vertex="1" parent="1">
+          <mxGeometry x="70" y="-1093" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uBYx9kKuJi2ON3T31jr--7" value="BD PostgreSQL" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="1">
-          <mxGeometry x="360" y="-753" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="uBYx9kKuJi2ON3T31jr--9" value="" style="swimlane;startSize=0;fillColor=#3584e4;strokeColor=#6F0000;fillStyle=zigzag-line;rounded=1;shadow=0;glass=1;swimlaneFillColor=none;fontColor=#ffffff;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="-1108" width="280" height="320" as="geometry">
-            <mxRectangle x="160" y="-350" width="50" height="40" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="uBYx9kKuJi2ON3T31jr--12" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="uBYx9kKuJi2ON3T31jr--9">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="140.09" y="230" as="sourcePoint" />
-            <mxPoint x="139.79999999999998" y="190" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="uBYx9kKuJi2ON3T31jr--11" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="uBYx9kKuJi2ON3T31jr--9" source="uBYx9kKuJi2ON3T31jr--7">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="139.8" y="355" as="sourcePoint" />
-            <mxPoint x="139.8" y="290" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="uBYx9kKuJi2ON3T31jr--5" value="&lt;div&gt;Couche logique métier&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#63A2FF;" vertex="1" parent="1">
+          <mxGeometry x="70" y="-993" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uBYx9kKuJi2ON3T31jr--24" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="uBYx9kKuJi2ON3T31jr--2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="-978" as="sourcePoint" />
-            <mxPoint x="440" y="-948" as="targetPoint" />
+            <mxPoint x="170" y="-993" as="sourcePoint" />
+            <mxPoint x="210" y="-963" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uBYx9kKuJi2ON3T31jr--27" value="microservice" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="346" y="-1110" width="90" height="30" as="geometry" />
+        <mxCell id="uBYx9kKuJi2ON3T31jr--12" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170.09" y="-893" as="sourcePoint" />
+            <mxPoint x="169.79999999999998" y="-933" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uBYx9kKuJi2ON3T31jr--6" value="&lt;div&gt;Couche d&#39;accés aux données&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#63A2FF;" vertex="1" parent="1">
+          <mxGeometry x="70" y="-893" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uBYx9kKuJi2ON3T31jr--11" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="uBYx9kKuJi2ON3T31jr--7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="169.8" y="-768" as="sourcePoint" />
+            <mxPoint x="169.8" y="-833" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uBYx9kKuJi2ON3T31jr--7" value="BD PostgreSQL" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#ffcd28;strokeColor=#d79b00;opacity=40;gradientColor=#ffa500;" vertex="1" parent="1">
+          <mxGeometry x="130" y="-768" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
