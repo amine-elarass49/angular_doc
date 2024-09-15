@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" version="24.7.14" pages="6">
   <diagram id="VbmSNMpitOyS2P8errUJ" name="global-architecture">
-    <mxGraphModel dx="2084" dy="1160" grid="0" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2381" dy="1294" grid="0" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -155,8 +155,8 @@
         <mxCell id="rKu08YaNow4kpiejSnou-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/800px-Angular_full_color_logo.svg.png;clipPath=inset(11.67% 12.33% 7.67% 12%);" parent="1" vertex="1">
           <mxGeometry x="-9" y="324.25" width="58.86" height="62.75" as="geometry" />
         </mxCell>
-        <mxCell id="vbnjpDnbafTEZDlO4RGQ-1" value="&lt;font style=&quot;font-size: 43px;&quot;&gt;Annuaire Digital App [Micro Services | Spring boot 3 | Spring Cloud]&lt;/font&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="-5" y="-60" width="1482" height="98" as="geometry" />
+        <mxCell id="vbnjpDnbafTEZDlO4RGQ-1" value="&lt;font style=&quot;font-size: 37px;&quot;&gt;Annuaire Digital App [Micro Services | Spring boot 3 | Spring Cloud]&lt;/font&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="-11" y="-60" width="1387" height="98" as="geometry" />
         </mxCell>
         <mxCell id="xCOBlcEBNlZvq0qhSWPW-1" value="Authentication" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="539" y="140" width="120" height="39" as="geometry" />
