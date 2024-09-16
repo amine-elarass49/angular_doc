@@ -5,10 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2" value="Internaute" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="120" y="10" width="25" height="360" as="geometry" />
-        </mxCell>
-        <mxCell id="FYmzxbrKtwJfaqk07coD-15" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#cce5ff;strokeColor=#36393d;" parent="2" vertex="1">
-          <mxGeometry x="5" y="105" width="10" height="255" as="geometry" />
+          <mxGeometry x="120" y="10" width="25" height="370" as="geometry" />
         </mxCell>
         <mxCell id="FYmzxbrKtwJfaqk07coD-36" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#cce5ff;strokeColor=#36393d;" parent="2" vertex="1">
           <mxGeometry x="10" y="320" width="10" height="20" as="geometry" />
@@ -37,10 +34,10 @@
             <mxPoint x="80" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FYmzxbrKtwJfaqk07coD-40" value="" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;" parent="3" target="FYmzxbrKtwJfaqk07coD-15" edge="1">
+        <mxCell id="FYmzxbrKtwJfaqk07coD-40" value="" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;" parent="3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="66" y="140" as="sourcePoint" />
-            <mxPoint x="-204" y="140" as="targetPoint" />
+            <mxPoint x="-209" y="140" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-89.5" y="140" />
             </Array>
