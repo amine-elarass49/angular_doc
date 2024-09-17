@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" version="24.7.14">
   <diagram name="Page-1" id="Rq4Vgw_5d9vgPGQWiq_x">
-    <mxGraphModel dx="1472" dy="1860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1598" dy="1952" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="fkFMP3JX3WEj0m_sH6AM-30" value="s" style="swimlane;startSize=0;" parent="1" vertex="1">
-          <mxGeometry x="190" width="1010" height="910" as="geometry">
+          <mxGeometry x="180" width="1020" height="910" as="geometry">
             <mxRectangle x="190" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -18,7 +18,7 @@
         <mxCell id="fkFMP3JX3WEj0m_sH6AM-36" value="Modifier ses produits/services" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="fkFMP3JX3WEj0m_sH6AM-30" vertex="1">
           <mxGeometry x="270" y="220" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="fkFMP3JX3WEj0m_sH6AM-38" value="&lt;div&gt;Supprimer son produits&lt;/div&gt;/services" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="fkFMP3JX3WEj0m_sH6AM-30" vertex="1">
+        <mxCell id="fkFMP3JX3WEj0m_sH6AM-38" value="&lt;div&gt;Supprimer ses produits&lt;/div&gt;/services" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="fkFMP3JX3WEj0m_sH6AM-30" vertex="1">
           <mxGeometry x="220" y="297.8" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fkFMP3JX3WEj0m_sH6AM-42" value="Consulter ses produits/services" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="fkFMP3JX3WEj0m_sH6AM-30" vertex="1">
@@ -72,7 +72,7 @@
             <mxPoint x="100" y="615.01" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PQB2T6UrnItoZjkJQsqc-1" value="Manager ses commandes" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="fkFMP3JX3WEj0m_sH6AM-30" vertex="1">
+        <mxCell id="PQB2T6UrnItoZjkJQsqc-1" value="Gérer ses commandes" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="fkFMP3JX3WEj0m_sH6AM-30" vertex="1">
           <mxGeometry x="80" y="740" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="PQB2T6UrnItoZjkJQsqc-2" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.941;exitY=0.288;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.604;entryY=0.983;entryDx=0;entryDy=0;entryPerimeter=0;" parent="fkFMP3JX3WEj0m_sH6AM-30" source="PQB2T6UrnItoZjkJQsqc-1" target="fkFMP3JX3WEj0m_sH6AM-31" edge="1">
@@ -120,7 +120,7 @@
             <mxPoint x="250" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vsgUWdpEm3JgZM0_a5wR-51" value="&lt;div&gt;Ajouter son produits&lt;/div&gt;/services" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="fkFMP3JX3WEj0m_sH6AM-30" vertex="1">
+        <mxCell id="vsgUWdpEm3JgZM0_a5wR-51" value="&lt;div&gt;Ajouter ses produits&lt;/div&gt;/services" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="fkFMP3JX3WEj0m_sH6AM-30" vertex="1">
           <mxGeometry x="200" y="380" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="vsgUWdpEm3JgZM0_a5wR-52" value="Extends" style="endArrow=block;endSize=7;endFill=0;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="fkFMP3JX3WEj0m_sH6AM-30" source="fkFMP3JX3WEj0m_sH6AM-35" target="vsgUWdpEm3JgZM0_a5wR-51" edge="1">
@@ -147,10 +147,10 @@
             <mxPoint x="403" y="825" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fkFMP3JX3WEj0m_sH6AM-51" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#1a5fb4&quot;&gt;Use Case BusinessOwner annuaire digital d&#39;entreprises&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="fkFMP3JX3WEj0m_sH6AM-30" vertex="1">
-          <mxGeometry x="300" y="-40" width="420" height="30" as="geometry" />
+        <mxCell id="fkFMP3JX3WEj0m_sH6AM-51" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#1a5fb4&quot;&gt;Use Case profil d&#39;entreprise annuaire digital&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="fkFMP3JX3WEj0m_sH6AM-30" vertex="1">
+          <mxGeometry x="340" y="-40" width="340" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fkFMP3JX3WEj0m_sH6AM-28" value="BusinessOwner" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="fkFMP3JX3WEj0m_sH6AM-30" vertex="1">
+        <mxCell id="fkFMP3JX3WEj0m_sH6AM-28" value="Profil d&#39;entreprise" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="fkFMP3JX3WEj0m_sH6AM-30" vertex="1">
           <mxGeometry x="-130" y="210" width="50" height="90" as="geometry" />
         </mxCell>
       </root>
