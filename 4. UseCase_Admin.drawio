@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" version="24.7.14">
   <diagram name="Page-1" id="bhGO4YqVL-GR8HQGPJSJ">
-    <mxGraphModel dx="1472" dy="1860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1206" dy="1735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,10 +37,10 @@
         <mxCell id="naTFx3P3gocJp3Rw6-RB-33" value="Manager son profil" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="naTFx3P3gocJp3Rw6-RB-2" vertex="1">
           <mxGeometry x="65" y="210" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="naTFx3P3gocJp3Rw6-RB-35" value="Ajouter un businessOwner" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="naTFx3P3gocJp3Rw6-RB-2" vertex="1">
+        <mxCell id="naTFx3P3gocJp3Rw6-RB-35" value="Ajouter un profil d&#39;entreprise" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="naTFx3P3gocJp3Rw6-RB-2" vertex="1">
           <mxGeometry x="240" y="430" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="naTFx3P3gocJp3Rw6-RB-36" value="Supprimer un businessOwner" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="naTFx3P3gocJp3Rw6-RB-2" vertex="1">
+        <mxCell id="naTFx3P3gocJp3Rw6-RB-36" value="Supprimer un profil d&#39;entreprise" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="naTFx3P3gocJp3Rw6-RB-2" vertex="1">
           <mxGeometry x="80" y="450" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="naTFx3P3gocJp3Rw6-RB-37" value="Ajouter un admin" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="naTFx3P3gocJp3Rw6-RB-2" vertex="1">
@@ -115,7 +115,7 @@
         <mxCell id="ZiRu1ya_WraAcEEnrFVZ-15" value="Gérer une catégorie" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="naTFx3P3gocJp3Rw6-RB-2" vertex="1">
           <mxGeometry x="65" y="690" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ZiRu1ya_WraAcEEnrFVZ-49" value="&lt;div&gt;Gérer&lt;/div&gt;&lt;div&gt; un businessOwner&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="naTFx3P3gocJp3Rw6-RB-2" vertex="1">
+        <mxCell id="ZiRu1ya_WraAcEEnrFVZ-49" value="&lt;div&gt;Gérer&lt;/div&gt;&lt;div&gt; un profil d&#39;entreprise&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="naTFx3P3gocJp3Rw6-RB-2" vertex="1">
           <mxGeometry x="65" y="320" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ZiRu1ya_WraAcEEnrFVZ-50" value="Extends" style="endArrow=block;endSize=7;endFill=0;html=1;rounded=0;entryX=0.13;entryY=0.186;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.452;exitY=1.016;exitDx=0;exitDy=0;exitPerimeter=0;" parent="naTFx3P3gocJp3Rw6-RB-2" source="ZiRu1ya_WraAcEEnrFVZ-49" target="naTFx3P3gocJp3Rw6-RB-36" edge="1">
