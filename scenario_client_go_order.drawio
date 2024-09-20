@@ -33,7 +33,7 @@
             <mxPoint x="38" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IgNi5zP_baFBuqDR0OYr-31" value="&lt;div&gt;4.&amp;nbsp;&lt;/div&gt;&lt;div&gt;Vérification?&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="IgNi5zP_baFBuqDR0OYr-26">
+        <mxCell id="IgNi5zP_baFBuqDR0OYr-31" value="&lt;div&gt;4.&amp;nbsp;&lt;/div&gt;&lt;div&gt;Vérification ?&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="IgNi5zP_baFBuqDR0OYr-26">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="75" y="180" as="sourcePoint" />
             <Array as="points">
