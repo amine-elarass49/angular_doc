@@ -106,7 +106,7 @@
         <mxCell id="IgNi5zP_baFBuqDR0OYr-35" value="[Echec]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="60" y="310" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="IgNi5zP_baFBuqDR0OYr-48" value="&lt;div&gt;5.&amp;nbsp;&lt;/div&gt;&lt;div&gt;Vérification ?&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="IgNi5zP_baFBuqDR0OYr-48" value="&lt;div&gt;5. traitement ?&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="420" y="260" as="sourcePoint" />
             <Array as="points">
